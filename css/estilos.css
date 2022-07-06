@@ -128,7 +128,23 @@ h3 {
 }
 
 .container-carousel {
-    width: 50%;
-    margin-top: 2rem;
-    padding: 30px 45px;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container-estampa {
+    padding: 15px;
+}
+
+.grid-item {
+  display: flex;
+  flex-wrap: wrap;   
+}
+
+.img-estampa {
+    height: 20%;
+    width: 30%;
 }
