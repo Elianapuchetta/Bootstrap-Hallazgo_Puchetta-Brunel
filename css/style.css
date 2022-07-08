@@ -1,2 +1,10 @@
+@charset "UTF-8";
+/*VARIABLES*/
+/* COLORES */
+/* ESPACIADOS */
+/* FUENTES */
+/* TAMAÑO DE FUENTE*/
+/*MIXINS*/
+/*PARTIALS HEADER*/
 header {
-  background-color: #E9E2CE; }
+  width: 100%; }

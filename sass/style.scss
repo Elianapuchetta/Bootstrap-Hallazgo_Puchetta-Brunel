@@ -1,1 +1,8 @@
-@import './views/header';
+/*VARIABLES*/
+@import './misc/variables';
+
+/*MIXINS*/
+@import './misc/mixins';
+
+/*PARTIALS HEADER*/
+@import './partials/header'
