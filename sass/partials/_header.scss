@@ -1,4 +1,22 @@
 header {
     width: 100%;
     
+
+.container-fluid {
+    background-color: $primary;
+}
+
+.navbar{
+@include flex (center, center, center)
+
+.menu {
+@include flex (space-evenly, center, center)
+    max-width: 100%;
+    list-style: none;
+    background-color: $primary;
+    font-size: $medium;
+    margin-top: $xssmall;
+    margin-bottom: $xssmall;
+    height: 50px;
+    }
 }

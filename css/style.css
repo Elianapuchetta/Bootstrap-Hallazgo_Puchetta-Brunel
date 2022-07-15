@@ -8,3 +8,12 @@
 /*PARTIALS HEADER*/
 header {
   width: 100%; }
+
+.container-fluid {
+  background-color: #f7f1e6; }
+
+.navbar {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  align-items: center; }
